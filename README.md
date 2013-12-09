@@ -1,4 +1,0 @@
-HLE
-===
-
-Hibari bLog Engine
